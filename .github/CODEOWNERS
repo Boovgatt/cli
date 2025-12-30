@@ -1,4 +1,4 @@
-* @cli/code-reviewers
+*pkg/cmd/issue/list/list_test.go @cli/code-reviewers
 
 pkg/cmd/codespace/ @cli/codespaces
 internal/codespaces/ @cli/codespaces
